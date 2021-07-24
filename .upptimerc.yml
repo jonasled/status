@@ -33,7 +33,7 @@ status-website:
   name: Upptime
   introTitle: "**Jonas Leder Status**"
   introMessage: ""
-  theme: dark
+  theme: night
   navbar:
 
 # Upptime also supports notifications, assigning issues, and more
