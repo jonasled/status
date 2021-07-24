@@ -3,14 +3,26 @@ owner: jonasled # Your GitHub organization or username, where this repository li
 repo: status # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: URL Shorter
+    url: https://kuerzer.ml
+  - name: Website
+    url: https://jonasled.de
+  - name: Hastebin
+    url: https://paste.jonasled.de
+  - name: Nextcloud
+    url: https://nextcloud.jonasled.de
+  - name: Proxmox
+    url: https://pve.jonasled.de
+  - name: Matrix
+    url: https://matrix.jonasled.de/_matrix/federation/v1/version
+  - name: APT-Mirror
+    url: https://apt.jonasled.de
+  - name: Alpine-mirror
+    url: https://alpine.jonasled.de
+  - name: Gitlab
+    url: https://gitlab.jonasled.de
+  - name: Cyber Panel
+    url: https://cp.jonasled.de
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -19,13 +31,9 @@ status-website:
   baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**Jonas Leder Status**"
+  introMessage: ""
   navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
