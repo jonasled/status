@@ -27,8 +27,8 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  #cname: jonasled.github.io
-  baseUrl: /status
+  cname: status.jonasled.de
+  # baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/jonasled/status/master/assets/logo.png
   name: Upptime
   introTitle: "**Jonas Leder Status**"
