@@ -166,19 +166,19 @@
     "url": "https://cp.jonasled.de",
     "icon": "https://favicons.githubusercontent.com/cp.jonasled.de",
     "slug": "cyber-panel",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 3617,
-    "timeDay": 3617,
-    "timeWeek": 3617,
-    "timeMonth": 3617,
-    "timeYear": 3617,
+    "status": "up",
+    "uptime": "89.67%",
+    "uptimeDay": "89.67%",
+    "uptimeWeek": "89.67%",
+    "uptimeMonth": "89.67%",
+    "uptimeYear": "89.67%",
+    "time": 3257,
+    "timeDay": 3257,
+    "timeWeek": 3257,
+    "timeMonth": 3257,
+    "timeYear": 3257,
     "dailyMinutesDown": {
-      "2021-07-25": 0
+      "2021-07-25": 40
     }
   }
 ]
