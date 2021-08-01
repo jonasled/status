@@ -4,9 +4,9 @@
     "url": "https://kuerzer.ml",
     "icon": "https://favicons.githubusercontent.com/kuerzer.ml",
     "slug": "url-shorter",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 789,
     "timeMonth": 1234,
     "timeYear": 1234,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-01": 0
+    }
   },
   {
     "name": "Website",
     "url": "https://jonasled.de",
     "icon": "https://favicons.githubusercontent.com/jonasled.de",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 453,
     "timeMonth": 441,
     "timeYear": 441,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-01": 0
+    }
   },
   {
     "name": "Hastebin",
@@ -76,9 +80,9 @@
     "url": "https://pve.jonasled.de",
     "icon": "https://favicons.githubusercontent.com/pve.jonasled.de",
     "slug": "proxmox",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,7 +91,9 @@
     "timeWeek": 453,
     "timeMonth": 440,
     "timeYear": 440,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-01": 0
+    }
   },
   {
     "name": "Matrix",
@@ -167,14 +173,14 @@
     "icon": "https://favicons.githubusercontent.com/cp.jonasled.de",
     "slug": "cyber-panel",
     "status": "up",
-    "uptime": "98.36%",
+    "uptime": "98.53%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.32%",
-    "uptimeMonth": "98.36%",
-    "uptimeYear": "98.36%",
+    "uptimeWeek": "98.72%",
+    "uptimeMonth": "98.53%",
+    "uptimeYear": "98.53%",
     "time": 3344,
     "timeDay": 621,
-    "timeWeek": 3592,
+    "timeWeek": 3405,
     "timeMonth": 3344,
     "timeYear": 3344,
     "dailyMinutesDown": {
