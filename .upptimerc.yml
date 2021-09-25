@@ -28,7 +28,7 @@ sites:
   - name: Mailcow 2
     url: https://mailcow2.jonasled.de
   - name: Minio S3 Server
-    url: https://s3.jonasled.de/minio/login
+    url: https://s3.jonasled.de/share/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
