@@ -72,18 +72,17 @@
     "icon": "https://favicons.githubusercontent.com/nextcloud.jonasled.de",
     "slug": "nextcloud",
     "status": "up",
-    "uptime": "99.81%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.81%",
+    "uptime": "99.82%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.82%",
     "time": 1878,
     "timeDay": 2374,
     "timeWeek": 6978,
     "timeMonth": 2642,
     "timeYear": 1878,
     "dailyMinutesDown": {
-      "2021-09-24": 8,
       "2021-09-04": 36,
       "2021-08-16": 112,
       "2021-08-15": 17
@@ -290,7 +289,8 @@
     "timeMonth": 370,
     "timeYear": 370,
     "dailyMinutesDown": {
-      "2021-09-24": 1432,
+      "2021-09-25": 22,
+      "2021-09-24": 1440,
       "2021-09-23": 1440,
       "2021-09-22": 1440,
       "2021-09-21": 215
