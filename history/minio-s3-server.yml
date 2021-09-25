@@ -1,7 +1,7 @@
-url: https://s3.jonasled.de
+url: https://s3.jonasled.de/minio/login
 status: down
 code: 403
-responseTime: 497
-lastUpdated: 2021-09-24T23:16:06.283Z
+responseTime: 318
+lastUpdated: 2021-09-25T21:09:37.936Z
 startTime: Tue Sep 21 2021 20:25:21 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
