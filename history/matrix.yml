@@ -1,7 +1,7 @@
 url: https://matrix.jonasled.de/_matrix/federation/v1/version
-status: up
-code: 200
-responseTime: 514
-lastUpdated: 2021-10-03T23:15:48.304Z
+status: down
+code: 404
+responseTime: 613
+lastUpdated: 2021-10-04T07:20:19.607Z
 startTime: Sat Jul 24 2021 19:46:37 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
