@@ -188,19 +188,19 @@
     "url": "https://gitlab.jonasled.de",
     "icon": "https://favicons.githubusercontent.com/gitlab.jonasled.de",
     "slug": "gitlab",
-    "status": "down",
-    "uptime": "99.74%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.74%",
-    "time": 1207,
-    "timeDay": 1116,
-    "timeWeek": 1177,
-    "timeMonth": 1110,
-    "timeYear": 1207,
+    "status": "up",
+    "uptime": "99.73%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.73%",
+    "time": 1210,
+    "timeDay": 1201,
+    "timeWeek": 1204,
+    "timeMonth": 1120,
+    "timeYear": 1210,
     "dailyMinutesDown": {
-      "2021-10-05": 0,
+      "2021-10-05": 10,
       "2021-09-04": 17,
       "2021-08-17": 169,
       "2021-08-16": 86
@@ -294,11 +294,11 @@
     "icon": "https://favicons.githubusercontent.com/s3.jonasled.de",
     "slug": "minio-s3-server",
     "status": "up",
-    "uptime": "71.15%",
+    "uptime": "71.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "71.15%",
-    "uptimeYear": "71.15%",
+    "uptimeMonth": "71.16%",
+    "uptimeYear": "71.16%",
     "time": 489,
     "timeDay": 658,
     "timeWeek": 546,
@@ -329,7 +329,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-05": 601
+      "2021-10-05": 611
     }
   }
 ]
