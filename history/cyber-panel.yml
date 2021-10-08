@@ -1,7 +1,7 @@
 url: https://cp.jonasled.de
-status: up
-code: 200
-responseTime: 751
-lastUpdated: 2021-10-07T23:16:27.830Z
+status: down
+code: 503
+responseTime: 8574
+lastUpdated: 2021-10-08T01:18:32.133Z
 startTime: Sat Jul 24 2021 19:46:40 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
