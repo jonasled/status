@@ -95,10 +95,10 @@
     "url": "https://nextcloud.jonasled.de",
     "icon": "https://favicons.githubusercontent.com/nextcloud.jonasled.de",
     "slug": "nextcloud",
-    "status": "up",
+    "status": "down",
     "uptime": "96.66%",
-    "uptimeDay": "81.26%",
-    "uptimeWeek": "86.81%",
+    "uptimeDay": "81.24%",
+    "uptimeWeek": "86.83%",
     "uptimeMonth": "90.20%",
     "uptimeYear": "96.66%",
     "time": 3664,
@@ -153,7 +153,7 @@
     "uptimeYear": "98.35%",
     "time": 582,
     "timeDay": 1099,
-    "timeWeek": 717,
+    "timeWeek": 721,
     "timeMonth": 659,
     "timeYear": 582,
     "dailyMinutesDown": {
@@ -183,7 +183,7 @@
     "uptimeYear": "99.18%",
     "time": 504,
     "timeDay": 567,
-    "timeWeek": 571,
+    "timeWeek": 563,
     "timeMonth": 589,
     "timeYear": 504,
     "dailyMinutesDown": {
@@ -212,7 +212,7 @@
     "uptimeYear": "97.69%",
     "time": 613,
     "timeDay": 557,
-    "timeWeek": 962,
+    "timeWeek": 983,
     "timeMonth": 733,
     "timeYear": 613,
     "dailyMinutesDown": {
@@ -242,7 +242,7 @@
     "uptimeYear": "98.67%",
     "time": 612,
     "timeDay": 642,
-    "timeWeek": 907,
+    "timeWeek": 925,
     "timeMonth": 741,
     "timeYear": 612,
     "dailyMinutesDown": {
@@ -271,7 +271,7 @@
     "uptimeYear": "98.72%",
     "time": 1486,
     "timeDay": 3937,
-    "timeWeek": 3068,
+    "timeWeek": 3159,
     "timeMonth": 1913,
     "timeYear": 1486,
     "dailyMinutesDown": {
@@ -300,7 +300,7 @@
     "uptimeYear": "97.31%",
     "time": 3193,
     "timeDay": 2045,
-    "timeWeek": 3655,
+    "timeWeek": 3833,
     "timeMonth": 4036,
     "timeYear": 3193,
     "dailyMinutesDown": {
@@ -365,7 +365,7 @@
     "uptimeYear": "98.63%",
     "time": 1076,
     "timeDay": 2985,
-    "timeWeek": 1609,
+    "timeWeek": 1628,
     "timeMonth": 1286,
     "timeYear": 1076,
     "dailyMinutesDown": {
@@ -395,7 +395,7 @@
     "uptimeYear": "99.92%",
     "time": 634,
     "timeDay": 463,
-    "timeWeek": 619,
+    "timeWeek": 598,
     "timeMonth": 656,
     "timeYear": 634,
     "dailyMinutesDown": {
@@ -417,7 +417,7 @@
     "uptimeYear": "89.24%",
     "time": 612,
     "timeDay": 537,
-    "timeWeek": 612,
+    "timeWeek": 606,
     "timeMonth": 666,
     "timeYear": 612,
     "dailyMinutesDown": {
@@ -451,7 +451,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-11-03": 1397,
+      "2021-11-03": 1400,
       "2021-11-02": 1440,
       "2021-11-01": 1440,
       "2021-10-31": 1440,
