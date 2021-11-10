@@ -1,7 +1,7 @@
 url: https://gitlab.jonasled.de
-status: down
-code: 502
-responseTime: 499
-lastUpdated: 2021-11-10T23:12:54.718Z
+status: up
+code: 200
+responseTime: 1577
+lastUpdated: 2021-11-10T23:16:25.942Z
 startTime: Sat Jul 24 2021 19:46:39 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
