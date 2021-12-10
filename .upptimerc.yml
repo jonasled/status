@@ -29,8 +29,10 @@ sites:
     url: https://mailcow2.jonasled.de
   - name: Minio S3 Server
     url: https://s3.jonasled.de/share/
-  - name: Gameserver Ryzen Node
+  - name: Gameserver Node
     url: https://1.game.jonasled.de:8444/
+    expectedStatusCodes:
+      - 401
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
