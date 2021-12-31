@@ -13,7 +13,7 @@
     "time": 1702,
     "timeDay": 376,
     "timeWeek": 467,
-    "timeMonth": 605,
+    "timeMonth": 600,
     "timeYear": 1702,
     "dailyMinutesDown": {
       "2021-12-18": 22,
@@ -58,7 +58,7 @@
     "time": 609,
     "timeDay": 483,
     "timeWeek": 569,
-    "timeMonth": 641,
+    "timeMonth": 638,
     "timeYear": 609,
     "dailyMinutesDown": {
       "2021-12-18": 553,
@@ -94,7 +94,7 @@
     "time": 902,
     "timeDay": 379,
     "timeWeek": 410,
-    "timeMonth": 443,
+    "timeMonth": 441,
     "timeYear": 902,
     "dailyMinutesDown": {
       "2021-12-18": 21,
@@ -130,7 +130,7 @@
     "time": 3064,
     "timeDay": 548,
     "timeWeek": 671,
-    "timeMonth": 1168,
+    "timeMonth": 1153,
     "timeYear": 3064,
     "dailyMinutesDown": {
       "2021-12-18": 553,
@@ -188,7 +188,7 @@
     "time": 586,
     "timeDay": 408,
     "timeWeek": 528,
-    "timeMonth": 589,
+    "timeMonth": 585,
     "timeYear": 586,
     "dailyMinutesDown": {
       "2021-12-18": 38,
@@ -223,7 +223,7 @@
     "time": 524,
     "timeDay": 521,
     "timeWeek": 502,
-    "timeMonth": 559,
+    "timeMonth": 555,
     "timeYear": 524,
     "dailyMinutesDown": {
       "2021-12-18": 553,
@@ -257,7 +257,7 @@
     "time": 599,
     "timeDay": 406,
     "timeWeek": 502,
-    "timeMonth": 558,
+    "timeMonth": 556,
     "timeYear": 599,
     "dailyMinutesDown": {
       "2021-12-18": 38,
@@ -292,7 +292,7 @@
     "time": 613,
     "timeDay": 403,
     "timeWeek": 519,
-    "timeMonth": 644,
+    "timeMonth": 638,
     "timeYear": 613,
     "dailyMinutesDown": {
       "2021-12-18": 38,
@@ -326,7 +326,7 @@
     "time": 1437,
     "timeDay": 929,
     "timeWeek": 1718,
-    "timeMonth": 1364,
+    "timeMonth": 1355,
     "timeYear": 1437,
     "dailyMinutesDown": {
       "2021-12-28": 88,
@@ -366,7 +366,7 @@
     "time": 2683,
     "timeDay": 487,
     "timeWeek": 600,
-    "timeMonth": 1028,
+    "timeMonth": 1013,
     "timeYear": 2683,
     "dailyMinutesDown": {
       "2021-12-18": 38,
@@ -436,7 +436,7 @@
     "time": 1116,
     "timeDay": 703,
     "timeWeek": 1039,
-    "timeMonth": 1086,
+    "timeMonth": 1077,
     "timeYear": 1116,
     "dailyMinutesDown": {
       "2021-12-18": 553,
@@ -462,18 +462,19 @@
     "icon": "https://favicons.githubusercontent.com/mailcow2.jonasled.de",
     "slug": "mailcow-2",
     "status": "down",
-    "uptime": "97.96%",
-    "uptimeDay": "65.66%",
-    "uptimeWeek": "95.09%",
-    "uptimeMonth": "97.69%",
-    "uptimeYear": "97.96%",
+    "uptime": "97.94%",
+    "uptimeDay": "61.75%",
+    "uptimeWeek": "94.54%",
+    "uptimeMonth": "94.40%",
+    "uptimeYear": "97.94%",
     "time": 663,
     "timeDay": 0,
     "timeWeek": 610,
     "timeMonth": 732,
     "timeYear": 663,
     "dailyMinutesDown": {
-      "2021-12-30": 494,
+      "2021-12-31": 28,
+      "2021-12-30": 523,
       "2021-12-01": 488,
       "2021-11-30": 1440,
       "2021-11-29": 1440,
@@ -500,7 +501,7 @@
     "time": 590,
     "timeDay": 414,
     "timeWeek": 491,
-    "timeMonth": 562,
+    "timeMonth": 558,
     "timeYear": 590,
     "dailyMinutesDown": {
       "2021-12-18": 553,
