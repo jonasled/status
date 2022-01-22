@@ -1,7 +1,7 @@
 url: https://1.game.jonasled.de:8444/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2022-01-21T23:22:37.316Z
+status: up
+code: 401
+responseTime: 368
+lastUpdated: 2022-01-22T15:21:47.699Z
 startTime: Fri Dec 10 2021 08:55:35 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
