@@ -1,7 +1,7 @@
 url: https://nextcloud.jonasled.de
-status: down
-code: 500
-responseTime: 13203
-lastUpdated: 2022-01-26T21:24:35.406Z
+status: up
+code: 200
+responseTime: 992
+lastUpdated: 2022-01-26T22:29:33.157Z
 startTime: Sat Jul 24 2021 19:46:35 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
