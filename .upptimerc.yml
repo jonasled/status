@@ -28,7 +28,7 @@ sites:
   - name: Proxmox Mail Gateway
     url: https://pmg.jonasled.de
   - name: Proxmox Mail Gateway 2
-    url: https://pmg2.jonasled.de
+    url: https://pmg2.jonasled.de:8006
   - name: Minio S3 Server
     url: https://s3.jonasled.de/share/
   - name: Gameserver Node
