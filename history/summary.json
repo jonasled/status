@@ -537,19 +537,17 @@
     "icon": "https://favicons.githubusercontent.com/pmg2.jonasled.de",
     "slug": "proxmox-mail-gateway-2",
     "status": "up",
-    "uptime": "10.27%",
-    "uptimeDay": "10.27%",
-    "uptimeWeek": "10.27%",
-    "uptimeMonth": "10.27%",
-    "uptimeYear": "10.27%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 409,
     "timeDay": 409,
     "timeWeek": 409,
     "timeMonth": 409,
     "timeYear": 409,
-    "dailyMinutesDown": {
-      "2022-01-27": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Minio S3 Server",
